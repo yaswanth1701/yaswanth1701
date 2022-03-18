@@ -1,7 +1,6 @@
 - 👋 Hi, I’m yaswanth
 - 👀 I’m interested in robotics and programming 
 - 🌱 I’m currently learning controls
-- 💞️ I’m looking to collaborate on project related to robotics 
 - 📫 How to reach me on gonnayaswanth17@gmail.con
 
 <!---
