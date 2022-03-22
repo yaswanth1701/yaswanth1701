@@ -3,7 +3,7 @@
   
   visvesvaraya national institute of technology nagpur 
 - 👀 I’m interested in robotics and programming 
-- 🌱 I’m currently learning controls
+- 🌱 I’m currently exploring controls
 - 📫 You can reach me on gonnayaswanth17@gmail.con
 
 <!---
