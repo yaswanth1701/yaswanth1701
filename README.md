@@ -1,4 +1,7 @@
-- 👋 Hi, I’m yaswanth
+- 👋 hello I am Yaswanth
+- i am currently in my 2nd year of undergraduation of chemical engineering from 
+  
+  visvesvaraya national institute of technology nagpur 
 - 👀 I’m interested in robotics and programming 
 - 🌱 I’m currently learning controls
 - 📫 You can reach me on gonnayaswanth17@gmail.con
