@@ -1,10 +1,12 @@
-- 👋 hello I am Yaswanth
+- 👋 hello I am **Yaswanth**
 - i am in my 2nd year of undergraduation of chemical engineering from 
   
-  visvesvaraya national institute of technology nagpur 
-- 👀 I’m interested in robotics and programming 
-- 🌱 I’m currently exploring controls
-- 📫 You can reach me on gonnayaswanth17@gmail.con
+  **Visvesvaraya National Institute of Technology Nagpur**
+- :robot: currently member of **IvLabs,VNIT Nagpur**
+- 👀 I’m interested in Robotics and programming 
+
+- :mechanical_arm: I’m currently exploring controls
+- :mailbox_with_mail: You can reach me on gonnayaswanth17@gmail.con
 
 <!---
 yaswanth1701/yaswanth1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
