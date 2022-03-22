@@ -1,4 +1,4 @@
-- 👋 hello I am **Yaswanth**
+- 👋 hello,I am **Yaswanth**
 - i am in my 2nd year of undergraduation of Chemical engineering from 
   
   **Visvesvaraya National Institute of Technology Nagpur**
