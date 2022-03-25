@@ -1,5 +1,5 @@
 - 👋 hello,I am **Yaswanth**
-- i am in my 2nd year of undergraduation of Chemical engineering from 
+- i am in my 2nd year undergrad of Chemical engineering from 
   
   **Visvesvaraya National Institute of Technology Nagpur**
 - :robot: currently member of **IvLabs,VNIT Nagpur**
