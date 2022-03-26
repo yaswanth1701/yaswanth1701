@@ -3,7 +3,7 @@
   
   **Visvesvaraya National Institute of Technology Nagpur**
 - :robot: currently member of **IvLabs,VNIT Nagpur**
-- 👀 I’m interested in Robotics and programming 
+- 👀 I’m interested in Robotics, programming and computer vision 
 
 - :mechanical_arm: I’m currently learning controls
 - :mailbox_with_mail: You can reach me on gonnayaswanth17@gmail.con
