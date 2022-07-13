@@ -1,14 +1,21 @@
-- 👋 hello,I am **Yaswanth**
-- 2nd year undergrad of Chemical engineering from 
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yaswanth....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<p align="center">
+  Hi, I'm Gonna Yaswanth,A prefinal year undergrad at VNIT Nagpur India.
+  <br>
+  :test_tube: I'm currently pursuing bachelor of technology in Chemical engineering.
   
-  **Visvesvaraya National Institute of Technology Nagpur**
-- :robot: currently member of **IvLabs,VNIT Nagpur**
-- 👀 I’m interested in Robotics, programming and computer vision 
-
-- :mechanical_arm: I’m currently learning controls
-- :mailbox_with_mail: You can reach me on gonnayaswanth17@gmail.con
-
-<!---
-yaswanth1701/yaswanth1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+  <br>
+  🤖 I am interested in Robotics, Computer Vision and Programming.
+  <br>
+  📚 I’m currently working on developing various control stratigies and gaits on qaudrupeds:dog2:.
+  <br>
+  📫 How to reach me: <a href="mailto: gonnayaswanth2001@gmail.com">gonnayaswanth2001@gmail.com</a>
+</p>
