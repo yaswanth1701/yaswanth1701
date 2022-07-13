@@ -15,7 +15,7 @@
   <br>
   🤖 I am interested in Robotics, Computer Vision and Programming.
   <br>
-  📚 I’m currently working on developing various control stratigies and gaits on qaudrupeds:dog2:.
+  📚 I’m currently working on developing various control stratigies and gaits for qaudrupeds:dog2:.
   <br>
   📫 How to reach me: <a href="mailto: gonnayaswanth2001@gmail.com">gonnayaswanth2001@gmail.com</a>
 </p>
