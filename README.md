@@ -18,5 +18,5 @@
   📚 I’m currently working on  LEGGED robots:dog2:.
   📌  I'm also currently a research intern in MARMoT Lab at National University of Singapore(NUS) wroking on articulated locomotion😄
   <br>
-  📫 How to reach me: <a href="mailto: gonnayaswanth2001@gmail.com">gonnayaswanth2001@gmail.com</a>
+  📫 I am always interested in knowing new people who share same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth2001@gmail.com">gonnayaswanth2001@gmail.com</a>
 </p>
