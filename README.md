@@ -22,8 +22,9 @@
   📫 I am always interested in knowing new people who share same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth2001@gmail.com">gonnayaswanth2001@gmail.com</a>
   
 </p>
-<pre>
-                       <img src="https://user-images.githubusercontent.com/92177410/227315623-94e39bb0-1aa5-4e4e-8071-1c41ab1d2974.gif" width="500" height="300">
+<p align="center">
+                       <img src="https://user-images.githubusercontent.com/92177410/227354960-0e44af96-1e93-4ef3-8445-a57c916a5977.gif" width="500" height="300">
 
               
-</pre>
+</p>
+
