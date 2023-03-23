@@ -13,7 +13,7 @@
   
  
   <br>
-  🤖 I am interested in Robotics, Computer Vision and Programming and I am currently a member at IvLabs.
+  🤖 I am interested in Robotics, Computer Vision and Programming and I am a member at IvLabs(Robotic and AI community).
   <br>
   📚 I’m currently working on  LEGGED robots:dog2:.
   📌  I'm also a research intern in MARMoT Lab at National University of Singapore(NUS) working on articulated locomotion😄
