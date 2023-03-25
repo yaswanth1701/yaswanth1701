@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  Hi, I'm Gonna Yaswanth,A prefinal year undergrad at VNIT Nagpur India.
+  Hi, I'm Gonna Yaswanth, A prefinal year undergrad at VNIT Nagpur India.
   <br>
   :test_tube: I'm currently pursuing bachelor of technology in Chemical engineering.
   
