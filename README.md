@@ -17,7 +17,7 @@
   🤖 I am interested in Robotics, Computer Vision, Programming and I am a member at IvLabs(Robotic and AI community).
   <br>
   📚 I’m currently working on  LEGGED robots:dog2:.
-  📌  I'm also a research intern in MARMoT Lab at National University of Singapore(NUS) working on articulated locomotion😄
+  📌  I'm also a research intern in MARMoT Lab at National University of Singapore(NUS) working on articulated locomotion😄.
   <br>
   📫 I am always interested in knowing new people who share same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth2001@gmail.com">gonnayaswanth2001@gmail.com</a>
   
