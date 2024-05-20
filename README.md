@@ -8,15 +8,15 @@
 
 
 <p align="center">
-  Hi, I'm Gonna Yaswanth, A final year undergrad at VNIT Nagpur India.
+  Hi, I'm Gonna Yaswanth, A graduate of VNIT Nagpur India.
   <br>
-  :test_tube: I completed my undergrad in Bachelor of technology in Chemical engineering.
+  :test_tube: I completed my undergrad in Bachelor of Technology in Chemical Engineering.
   
  
   <br>
   🤖 I am interested in Robot control and planning.
   <br>
-  📫 I am always interested in knowing new people who share same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
+  📫 I am always interested in knowing new people who share the same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
   
 </p>
 <p align="center">
