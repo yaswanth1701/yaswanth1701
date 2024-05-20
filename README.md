@@ -14,11 +14,7 @@
   
  
   <br>
-  🤖 I am interested in Robot control and planning and  I am a member at IvLabs(Robotic and AI community).
-  <br>
-<!--   📚 I’m currently working on  LEGGED robots:dog2:. -->
-<!--   📌  I'm also a research intern in MARMoT Lab at National University of Singapore(NUS) working on articulated locomotion😄. -->
-📌  I'm also a research intern in MARMoT Lab at the National University of Singapore(NUS) 
+  🤖 I am interested in Robot control and planning.
   <br>
   📫 I am always interested in knowing new people who share same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
   
