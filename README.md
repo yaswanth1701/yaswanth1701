@@ -10,7 +10,7 @@
 <p align="center">
   Hi, I'm Gonna Yaswanth, A final year undergrad at VNIT Nagpur India.
   <br>
-  :test_tube: I'm currently pursuing a bachelor of technology in Chemical engineering.
+  :test_tube: I completed my undergrad in Bachelor of technology in Chemical engineering.
   
  
   <br>
