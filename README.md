@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  Hi, I'm Gonna Yaswanth, I did my bachelor's in chemical engineering :test_tube: from VNIT nagpur
+  Hi, I'm Gonna Yaswanth, I did my bachelor's in chemical engineering :test_tube: from NIT nagpur
 
   <br>
   🤖 I am interested in optimal control and robot learning.
