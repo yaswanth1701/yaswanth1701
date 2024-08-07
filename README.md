@@ -11,7 +11,7 @@
   Hi, I'm Gonna Yaswanth, I did my bachelor's in chemical engineering :test_tube: from VNIT nagpur
 
   <br>
-  🤖 I am interested in Robot control and planning.
+  🤖 I am interested in optimal control and robot learning.
   <br>
   📫 I am always interested in knowing new people who share the same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
   
