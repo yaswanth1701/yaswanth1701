@@ -16,10 +16,14 @@
   📫 I am always interested in knowing new people who share the same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
   
 </p>
+
+----
+
 <p align="center">
-                       <img src="https://user-images.githubusercontent.com/92177410/227701109-e12d7e8f-a50d-4bbf-a9c4-9a83fbfb528d.gif" width="300" height="300">
+                       <img src="https://github.com/user-attachments/assets/e1d6b8c3-a234-4976-8d02-9afc2980e636" width="300" height="300">
 
  
-
+ 
 </p>
+
 
