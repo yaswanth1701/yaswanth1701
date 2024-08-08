@@ -11,7 +11,7 @@
   Hi, I'm Yaswanth Gonna, I did my bachelor's in Chemical Engineering :test_tube: from NIT Nagpur
 
   <br>
-  🤖 I am interested in optimal control and robot learning.
+  🤖 I am interested in non-linear dynamics, optimal control, and robot learning.
   <br>
   📫 I am always interested in knowing new people who share the same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
   
