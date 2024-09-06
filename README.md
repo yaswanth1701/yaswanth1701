@@ -11,12 +11,10 @@
   Hi, I'm Yaswanth Gonna, I did my graduation from NIT Nagpur
 
   <br>
- By degree I am a chemical engineer, however by profession I am a Robotic engineer.
- <br> 
- 
- I currently work at Addverb technologies in medical robotics department.
+   By degree I am a chemical engineer, however by profession I am a Robotic engineer.
+  <br> 
+  I currently work at Addverb technologies in medical robotics department.
  <br>
- 
   🤖 I am interested in non-linear dynamics, optimal control, and robot learning.
   <br>
   📫 I am always interested in knowing new people who share the same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
