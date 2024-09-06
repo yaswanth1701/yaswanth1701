@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  Hi, I'm Yaswanth Gonna, I did my graduation from NIT Nagpur
+  Hi, I'm Gonna Yaswanth, I did my graduation from NIT Nagpur
 
   <br>
    By degree I am a chemical engineer, however by profession I am a Robotic engineer.
