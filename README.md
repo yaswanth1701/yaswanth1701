@@ -13,7 +13,7 @@
   <br>
    By degree I am a chemical engineer, however by profession I am a Robotic engineer.
   <br> 
-  I currently work at Addverb technologies in medical robotics department.
+  I currently work at Addverb Technologies in the medical robotics department.
  <br>
   🤖 I am interested in non-linear dynamics, optimal control, and robot learning.
   <br>
