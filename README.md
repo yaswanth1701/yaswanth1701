@@ -8,10 +8,7 @@
 
 
 <p align="center">
-  Hi, I'm Gonna Yaswanth, I did my graduation from NIT Nagpur
-
-  <br>
-   By degree I am a chemical engineer, however by profession I am a Robotic engineer.
+  Hi, I'm Gonna Yaswanth, I did my graduation from NIT Nagpur.
   <br> 
   I currently work at Addverb Technologies in the medical robotics department.
  <br>
