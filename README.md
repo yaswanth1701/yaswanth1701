@@ -15,7 +15,7 @@
   🤖 I am interested in non-linear dynamics, optimal control, and robot learning.
   <br>
   📫 I am always interested in knowing new people who share the same interest as mine, feel free to contact me at: <a href="mailto: gonnayaswanth17@gmail.com">gonnayaswanth17@gmail.com</a>
-  
+  <br>
   🖥️ List of my open source contribution can be found [here](https://gist.github.com/yaswanth1701/87becf3804935d11d77715e811a2ea15)
   
 </p>
