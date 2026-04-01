@@ -10,7 +10,7 @@
 <p align="center">
   Hi, I'm Gonna Yaswanth, I did my graduation from NIT Nagpur.
   <br> 
-  I currently work at Addverb Technologies in the advanced robotics department.
+  I currently work at Addverb Technologies as a robotic engineer in the advanced robotics department.
  <br>
   🤖 I am interested in non-linear dynamics, optimal control, and robot learning.
   <br>
